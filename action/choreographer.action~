@@ -1,0 +1,9 @@
+#goal definition
+float64 xpos
+float64 angle
+---
+#result definition
+int64 success
+---
+#feedback
+int64 sequence
